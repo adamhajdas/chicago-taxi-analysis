@@ -59,7 +59,4 @@ Celem było pokazanie:
 
 ## 📁 Struktura
 
-sql/
-├── 01_ingestion_and_audit.sql
-├── 02_enriched_and_silver.sql
-└── 03_marts_and_reports.sql
+<img width="233" height="104" alt="image" src="https://github.com/user-attachments/assets/4e69cddd-10db-4ab2-b43f-9ca5ff0ef6f2" />
