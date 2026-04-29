@@ -37,16 +37,6 @@ Celem było pokazanie:
 
 ---
 
-## 📊 Kluczowe wnioski
-
-- 📈 Przejście z cash → card (2017–2021)
-- ✈️ Kursy lotniskowe = segment premium (~4.5x droższe)
-- 🕒 Najbardziej dochodowe godziny: 20:00–22:00
-- 🌆 Centrum miasta generuje największy wolumen
-- ⚠️ Dane 2022–2023 są niepełne i nie nadają się do analizy trendów
-
----
-
 ## 🧠 Co pokazuje projekt
 
 - SQL (BigQuery / GoogleSQL)
