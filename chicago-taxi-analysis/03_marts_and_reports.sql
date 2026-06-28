@@ -391,7 +391,7 @@ SELECT
   ROUND(total_revenue, 2)                                     AS total_revenue,
   ROUND(SAFE_DIVIDE(total_tips, trip_count), 4)               AS avg_tip
 FROM activity
-QUALIFY ROW_NUMBER() OVER (PARTITION BY role ORDER BY trip_count DESC) <= 20 -- 
+QUALIFY ROW_NUMBER() OVER (PARTITION BY role ORDER BY trip_count DESC) <= 20 -- top 20 obszarów, odfiltrowanie bez tworzenia dodatowych CTE, QUALIFY wykonuje się po obliczeniu window functions
 ORDER BY role, trip_count DESC;
 
 /*
