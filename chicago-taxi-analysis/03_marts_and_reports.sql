@@ -309,23 +309,19 @@ ORDER BY month_num;
 /*
 WNIOSEK ANALITYCZNY NR 3: SEZONOWOŚĆ I WPŁYW POGODY (2017-2019)
 
-1. EFEKT "WINTER CHILL" (STYCZEŃ-LUTY):
+1. EFEKTY DLA STYCZNIA-LUTEGO:
   Najniższy wolumen w roku (ok. 10.5M kursów). Zima w Chicago zmusza pasażerów 
   do dłuższego planowania tras – średni dystans kursu (avg_km) jest o ok. 10% 
-  wyższy niż w lecie. Taksówka staje się niezbędnym środkiem transportu 
-  dalekobieżnego wewnątrz miasta.
+  wyższy niż w lecie.
 
 2. SZCZYT TURYSTYCZNO-BIZNESOWY (MAJ-CZERWIEC | PAŹDZIERNIK):
   Największa aktywność przypada na przełom wiosny i lata oraz jesień. 
   Październik wyróżnia się jako najbardziej dochodowy miesiąc pod kątem 
-  napiwków (avg_tip = 1.59$), co silnie koreluje z sezonem konferencyjnym 
-  w Chicago (McCormick Place).
+  napiwków (avg_tip = 1.59$).
 
-3. LATO I "KRÓTKIE SKOKI" (LIPIEC-SIERPIEŃ):
+3. LATO (LIPIEC-SIERPIEŃ):
   Mimo wysokiego wolumenu, lato charakteryzuje się najkrótszymi dystansami 
-  (avg_km = 5.6). Prawdopodobna przyczyna to duży udział turystów poruszających 
-  się na krótkich odcinkach w strefie Downtown oraz liczne festiwale 
-  (np. Lollapalooza), które generują ogromną liczbę krótkich przejazdów.
+  (avg_km = 5.6). Prawdopodobna przyczyna to duży udział turystów.
 
 4. WNIOSKI OPERACYJNE:
   - Sezon zimowy: Strategia na długie trasy i stabilne, choć rzadsze przychody.
