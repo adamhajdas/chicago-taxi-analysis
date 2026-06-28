@@ -129,8 +129,8 @@ ORDER BY revenue_share_pct DESC;
   3. Top 5 firm agreguje ok. 54% całkowitego przychodu rynku. Pozostałe kilkadziesiąt 
     firm musi walczyć o nisze jak np. dłuższe kursy lotniskowe, krótsze kursy w centrach miast.
 
-  Podsumowując: Rynek taxi w Chicago jest częściowo skoncentrowany – kilka dużych operatorów odpowiada za znaczącą część wolumenu i przychodu, 
-  podczas gdy mniejsze firmy działają w bardziej wyspecjalizowanych niszach.
+  Podsumowując: Rynek taxi w Chicago jest częściowo skoncentrowany – kilka dużych operatorów odpowiada 
+  za znaczącą część wolumenu i przychodu, podczas gdy mniejsze firmy działają w bardziej wyspecjalizowanych niszach.
 */
 
 # ============================================================
@@ -198,11 +198,9 @@ ORDER BY year, share_of_trips DESC;
   choć wciąż niszowy kanał płatności.
 
 5. WNIOSEK OPERACYJNY:
-  System Taxi w Chicago przeszedł transformację z "Cash-heavy" (2017) do "Digital-first" (2021). 
-  Dla kierowców oznacza to stabilniejsze przychody z napiwków (rejestrowanych cyfrowo), 
-  ale dla operatorów flot – konieczność utrzymania nowoczesnej infrastruktury płatniczej.
+  System Taxi w Chicago przeszedł transformację z przewagi rozliczeń gotówkowych (2017) 
+  do przejścia na płatności kartowe i mobilne (2021).
 
-  Uznałem, że do pozostałych zagadnień stworzę dedykowane data marty.
 */
 
 # ========================================================================================================================
