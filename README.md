@@ -35,6 +35,8 @@ Celem było pokazanie:
    - geografia (mart_geo_flows)
    - firmy (mart_company_performance)
 
+<img width="1338" height="421" alt="image" src="https://github.com/user-attachments/assets/f1994673-e049-477a-94f1-0f8c3c849612" />
+
 ---
 
 ## Co pokazuje projekt
